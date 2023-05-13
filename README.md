@@ -21,7 +21,8 @@ Feel free to browse my profile and contact me if you have any questions or comme
   
   
 ## In Dev unity project 🚧
--Katana Fighting Game 
+- Katana Fighting 
+- 2 PLayer Shooter
 <!--
 **Mapics/Mapics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
