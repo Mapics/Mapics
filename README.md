@@ -1,12 +1,12 @@
 # <a> <img align="center" src="Matt.png" height="100" /></a>
 
-I am currently a student learning about development and cybersecurity. I enjoy exploring and discovering new technologies, as well as solving complex problems.
+<a align="left">I am currently a student learning about development and cybersecurity. I enjoy exploring and discovering new technologies, as well as solving complex problems.
 
 My goal is to become an accomplished developer and cybersecurity expert, and to achieve this goal, I am working to develop my skills and gain experience.
 
 On my GitHub profile, you will find projects that I have created, as well as contributions that I have made to open source projects. I am always looking for new opportunities to learn more.
 
-Feel free to browse my profile and contact me if you have any questions or comments about my projects. I am always open to advice and suggestions for improving my skills and projects.
+Feel free to browse my profile and contact me if you have any questions or comments about my projects. I am always open to advice and suggestions for improving my skills and projects.<a/>
 
 ## Work on skills ✨
 - Unity 3d 🎲
