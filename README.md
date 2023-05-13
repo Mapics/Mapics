@@ -23,12 +23,12 @@ Feel free to browse my profile and contact me if you have any questions or comme
 ## In Dev unity project 🚧
  <img align="left" height="100" src="katana.png"/>\
 **Katana Fighting** \
-Game types: `1v1`, `katana` , `mechanical` \
+Game types: `1v1`, `katana` , `mechanical` 
   
   
  <img align="left" height="100" src="shooter.png"/>\
 **Shooter Maker** \
-Game types: `1v1`, `craft` , `aim` \
+Game types: `1v1`, `craft` , `aim` 
 <!--
 **Mapics/Mapics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
