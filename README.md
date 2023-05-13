@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub !
+# Welcome to my Github profile !
 
 <a align="right">I am currently a student learning about development and cybersecurity. I enjoy exploring and discovering new technologies, as well as solving complex problems.
 
