@@ -16,7 +16,7 @@ Feel free to browse my profile and contact me if you have any questions or comme
 - <a href="https://wakatime.com/@f628329b-9b09-4fa2-a503-df6e53082429"><img src="https://wakatime.com/badge/user/f628329b-9b09-4fa2-a503-df6e53082429.svg" alt="Total time coded since Dec 14 2022" /></a>
   
 ## Web Project
-  - <a ><img src="Simon.PNG" height="10"/></a>
+  - <a ><img src="Simon.PNG" height="50"/></a>
  
   
   
