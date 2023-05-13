@@ -21,7 +21,7 @@ Feel free to browse my profile and contact me if you have any questions or comme
   
   
 ## In Dev unity project 🚧
-<img align="left" height="100" src="katana.png"/>
+[<img align="left" height="100" src="katana.png"/>]
 /**Katana Fighting** \
 Games types: `1v1`, `katana` , `mechanical` \
 - 2 PLayer Shooter
