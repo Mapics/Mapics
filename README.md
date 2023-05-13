@@ -1,7 +1,7 @@
 # <a> <img align="center" src="Matt.png" height="100" /></a>
 
 <a align="right">I am currently a student learning about development and cybersecurity. I enjoy exploring and discovering new technologies, as well as solving complex problems.
-
+<a href="https://wakatime.com/@f628329b-9b09-4fa2-a503-df6e53082429"><img src="https://wakatime.com/badge/user/f628329b-9b09-4fa2-a503-df6e53082429.svg" alt="Total time coded since Dec 14 2022" /></a>
 My goal is to become an accomplished developer and cybersecurity expert, and to achieve this goal, I am working to develop my skills and gain experience.
 
 On my GitHub profile, you will find projects that I have created, as well as contributions that I have made to open source projects. I am always looking for new opportunities to learn more.
@@ -13,7 +13,7 @@ Feel free to browse my profile and contact me if you have any questions or comme
 - Blender Modeling 👨‍🏭
 - Computer networking 🖥️
 - video editor 📹
-<a href="https://wakatime.com/@f628329b-9b09-4fa2-a503-df6e53082429"><img src="https://wakatime.com/badge/user/f628329b-9b09-4fa2-a503-df6e53082429.svg" alt="Total time coded since Dec 14 2022" /></a>
+
 <!--
 **Mapics/Mapics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
