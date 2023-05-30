@@ -24,8 +24,7 @@ Feel free to browse my profile and contact me if you have any questions or comme
  <img align="left" height="100" src="katana.png"/>\
 **Katana Fighting** \
 Game types: `1v1`, `katana` , `mechanical` 
-  
-  
+  <br>
  <img align="left" height="100" src="shooter.png"/>\
 **Shooter Maker** \
 Game types: `1v1`, `craft` , `aim` 
