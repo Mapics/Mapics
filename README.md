@@ -21,7 +21,7 @@ Feel free to browse through my profile and reach out to me if you have any quest
 ## In Dev unity project 🚧
 <img align="left" height="100" src="katana.png"/>\
 **Katana Fighting** \
-Game types: `1v1`, `katana`, `mechanical`        
+Game types: `1v1`, `katana`, `mechanical` \n
 
 <img align="left" height="100" src="shooter.png"/>\
 **Shooter Maker** \
