@@ -19,14 +19,11 @@ Feel free to browse through my profile and reach out to me if you have any quest
 <a href="https://mapics.github.io/SimonsGame/"><img src="Simon.PNG" height="100"/></a>
 
 ## In Dev unity project 🚧
-<br>
-  <img align="left" height="100" src="katana.png"/>  
-  **Katana Fighting**  
-  Game types: `1v1`, `katana`, `mechanical`
-<br/>
+j'ai par exemple mis <img align="left" height="100" src="katana.png"/>\
+**Katana Fighting** \
+Game types: `1v1`, `katana`, `mechanical`  
 
-<br>
-  <img align="left" height="100" src="shooter.png"/>  
-  **Shooter Maker**  
-  Game types: `1v1`, `craft`, `aim`
-<br/>
+<img align="left" height="100" src="shooter.png"/>\
+**Shooter Maker** \
+Game types: `1v1`, `craft`, `aim`  
+mais impossible de retourne a la ligne
