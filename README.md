@@ -1,44 +1,28 @@
-# Welcome to my Github profile !
+# Welcome to my Github profile!
 
 <a align="right">I am currently a student learning about development and cybersecurity. I enjoy exploring and discovering new technologies, as well as solving complex problems.
 
-My goal is to become an accomplished developer and cybersecurity expert, and to achieve this goal, I am working to develop my skills and gain experience.
+My goal is to become an accomplished developer and cybersecurity expert. To achieve this, I'm continuously working on developing my skills and gaining experience.
 
-On my GitHub profile, you will find projects that I have created, as well as contributions that I have made to open source projects. I am always looking for new opportunities to learn more.
+On my GitHub profile, you'll find projects I've created and contributions I've made to open source projects. I'm always eager to learn and explore new opportunities.
 
-Feel free to browse my profile and contact me if you have any questions or comments about my projects. I am always open to advice and suggestions for improving my skills and projects.<a/>
+Feel free to browse through my profile and reach out to me if you have any questions or comments about my projects. I'm open to advice and suggestions for improving my skills and projects.</a>
 
 ## Work on skills ✨
-- Unity 3d 🎲
+- Unity 3D 🎲
 - Blender Modeling 👨‍🏭
 - Computer networking 🖥️
-- video editor 📹
+- Video editing 📹
 - <a href="https://wakatime.com/@f628329b-9b09-4fa2-a503-df6e53082429"><img src="https://wakatime.com/badge/user/f628329b-9b09-4fa2-a503-df6e53082429.svg" alt="Total time coded since Dec 14 2022" /></a>
-  
+
 ## Web Project
-<a href ="https://mapics.github.io/SimonsGame/"><img src="Simon.PNG" height="100"/></a>
- 
-  
-  
+<a href="https://mapics.github.io/SimonsGame/"><img src="Simon.PNG" height="100"/></a>
+
 ## In Dev unity project 🚧
- <img align="left" height="100" src="katana.png"/>\
+<img align="left" height="100" src="katana.png"/>\
 **Katana Fighting** \
-Game types: `1v1`, `katana` , `mechanical` 
-  <br>
- <img align="left" height="100" src="shooter.png"/>\
+Game types: `1v1`, `katana`, `mechanical` 
+<br>
+<img align="left" height="100" src="shooter.png"/>\
 **Shooter Maker** \
-Game types: `1v1`, `craft` , `aim` 
-<!--
-**Mapics/Mapics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Game types: `1v1`, `craft`, `aim`
