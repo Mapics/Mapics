@@ -19,19 +19,11 @@ Feel free to browse through my profile and reach out to me if you have any quest
 <a href="https://mapics.github.io/SimonsGame/"><img src="Simon.PNG" height="100"/></a>
 
 ## In Dev unity project 🚧
-<div style="display: flex; align-items: center;">
-  <img align="left" height="100" src="katana.png"/>
-  <div>
-    <strong>Katana Fighting</strong><br>
-    Game types: `1v1`, `katana`, `mechanical`
-  </div>
-</div>
+| <img align="left" height="100" src="katana.png"/> | **Katana Fighting** |
+|----------------------------------------------------|---------------------|
+| Game types:          |  `1v1`, `katana`, `mechanical`                     |
 
-<div style="display: flex; align-items: center;">
-  <img align="left" height="100" src="shooter.png"/>
-  <div>
-    <strong>Shooter Maker</strong><br>
-    Game types: `1v1`, `craft`, `aim`
-  </div>
-</div>
+| <img align="left" height="100" src="shooter.png"/> | **Shooter Maker**   |
+|----------------------------------------------------|---------------------|
+| Game types:             |  `1v1`, `craft`, `aim`                           |
 
